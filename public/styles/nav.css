@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  align-items: flex-end;
+  height: 120px;
+  background-color: #4056A1;
+  color: #FFFFFF;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.7em;
+}
+
+nav > span {
+  font-family: "Bungee", sans-serif;
+  font-size: 40pt;
+}
+
+.fa-angle-double-down {
+  margin-left: auto;
+  padding-right: 7em;
+  font-size: 30px;
+  font-size: 20px;
+  color: red;
+}
